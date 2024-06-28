@@ -32,7 +32,7 @@
 
 - [ ] [Module Federation Docs](https://module-federation.io/)
 - [ ] [micro-frontends.org](https://micro-frontends.org/)
-- [ ] [https://microfrontend.dev/]
+- [ ] [microfrontend.dev](https://microfrontend.dev/)
 - [ ] [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action?a_aid=mfia&a_bid=5f09fdeb)
 - [ ] [Understanding Microfrontend Architecture: Benefits and Challenges](https://www.devbyseb.com/article/understanding-microfrontend-architecture-benefits-and-challenges)
 - [ ] [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends/)
